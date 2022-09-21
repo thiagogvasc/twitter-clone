@@ -23,5 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![twitter_recording (1)](https://user-images.githubusercontent.com/62908111/191517953-d5267ab8-212b-4aca-aca6-45ab890af69b.gif)
 ![ezgif com-gif-maker (8)](https://user-images.githubusercontent.com/62908111/191523907-a062c4b6-fa01-42f4-b793-90e98110ba1c.gif)
